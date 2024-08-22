@@ -38,6 +38,6 @@ I'm open to collaboration and always looking to learn. Feel free to reach out if
 
 ### 📈 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhavnaware01&show_icons=true&theme=radical)](https://github.com/vaibhavnaware01)
 
 <!-- Optional: Add additional sections like blog posts, achievements, or certifications -->
