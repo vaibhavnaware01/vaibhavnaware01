@@ -6,9 +6,9 @@ I'm Vaibhav Naware, I am a project engineer in IIIT-Hydrabad. passionate about [
 
 ### 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/vaibhavnaware01)
+- [LinkedIn]([https://www.linkedin.com/in/vaibhavnaware01](https://www.linkedin.com/in/vaibhav-naware/))
 - [Twitter](https://twitter.com/vaibhavnaware01)
-- [Personal Website/Blog]([https://yourwebsite.com](https://vaibhavnaware01.github.io/Portfolio/))
+- [Personal Website/Blog](https://yourwebsite.com](https://vaibhavnaware01.github.io/Portfolio/))
 
 ### 🚀 Skills
 
