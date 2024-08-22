@@ -6,21 +6,28 @@ I'm Vaibhav Naware, I am a project engineer in IIIT-Hydrabad. passionate about [
 
 ### 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
-- [Twitter](https://twitter.com/yourusername)
-- [Personal Website/Blog](https://yourwebsite.com)
+- [LinkedIn](https://www.linkedin.com/in/vaibhavnaware01)
+- [Twitter](https://twitter.com/vaibhavnaware01)
+- [Personal Website/Blog]([https://yourwebsite.com](https://vaibhavnaware01.github.io/Portfolio/))
 
 ### 🚀 Skills
 
-- [Skill 1]
-- [Skill 2]
-- [Skill 3]
+- C/C++
+- Embedded C
+- HTML/CSS
+- Python
 
 ### 🛠️ Technologies & Tools
 
-- [Tech/Tool 1]
-- [Tech/Tool 2]
-- [Tech/Tool 3]
+- Git/GitHub
+- Unix Shell
+- VS Code
+- Arduino IDE
+- Autodesk Eagle
+- MATLAB
+- Autodesk Fusion360
+- Postman
+- Simplicity Studio 5
 
 ### 🌱 I’m currently learning
 
@@ -28,9 +35,14 @@ I'm Vaibhav Naware, I am a project engineer in IIIT-Hydrabad. passionate about [
 
 ### 🔭 Featured Projects
 
-- [Project 1](Link to Project 1)
-- [Project 2](Link to Project 2)
-- [Project 3](Link to Project 3)
+- [Wi-SUN Mesh Network deployment](Link to Project 1)
+- [Water Quality Monitoring Device](Link to Project 2)
+- [Home Automation](Link to Project 3)
+- [Manhole Indication and Accident Prevention System](Link to Project 4)
+- [Automatic Cattle Rescuer Using Atmega328p](Link to Project 5)
+- [Pick and Place Robot Using ESP8266](Link to Project 5)
+
+
 
 ### 🤝 Let's collaborate!
 
