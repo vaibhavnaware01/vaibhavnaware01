@@ -21,31 +21,31 @@ Feel free to explore my repositories and connect with me!
 ## 🛠️ My Skills
 
 ### **Programming Languages**  
-- ![C++ Logo](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) **C/C++**: Expertise in developing embedded systems and low-level applications.  
-- ![Embedded C Logo](https://img.icons8.com/ios-filled/50/000000/c-plus-plus.png) **Embedded C**: Specialized in real-time and resource-constrained applications.  
-- ![Python Logo](https://img.icons8.com/color/48/000000/python.png) **Python**: Used for data analysis, scripting, and automation tasks.  
-- ![HTML Logo](https://img.icons8.com/ios-filled/50/000000/html-5.png) **HTML/CSS**: For building basic web interfaces and dashboards.  
-- ![Bash Logo](https://img.icons8.com/ios-filled/50/000000/bash.png) **Bash**: Writing shell scripts for automation and system management.  
+- ![C++ Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/cplusplus.svg) **C/C++**: Expertise in developing embedded systems and low-level applications.  
+- ![Embedded C Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/c.svg) **Embedded C**: Specialized in real-time and resource-constrained applications.  
+- ![Python Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg) **Python**: Used for data analysis, scripting, and automation tasks.  
+- ![HTML Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/html5.svg) **HTML/CSS**: For building basic web interfaces and dashboards.  
+- ![Bash Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gnu-bash.svg) **Bash**: Writing shell scripts for automation and system management.  
 
 ### **Tools & Technologies**  
-- ![Git Logo](https://img.icons8.com/ios-filled/50/000000/git.png) **Git/GitHub**: Version control and collaborative development.  
-- ![Unix Shell Logo](https://img.icons8.com/ios-filled/50/000000/terminal.png) **Unix Shell**: Command-line tools for system interaction and automation.  
-- ![VS Code Logo](https://img.icons8.com/ios-filled/50/000000/visual-studio-code-2019.png) **VS Code**: My go-to code editor for all development tasks.  
-- ![Simplicity Studio Logo](https://img.icons8.com/ios-filled/50/000000/techstudio.png) **Simplicity Studio 5**: For working with Silicon Labs development kits and wireless technologies.  
-- ![Postman Logo](https://img.icons8.com/ios-filled/50/000000/postman-api.png) **Postman**: For API testing and development.  
-- ![Docker Logo](https://img.icons8.com/ios-filled/50/000000/docker.png) **Docker**: Containerization of applications for easier deployment and scalability.  
+- ![Git Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/git.svg) **Git/GitHub**: Version control and collaborative development.  
+- ![Unix Shell Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/ubuntu.svg) **Unix Shell**: Command-line tools for system interaction and automation.  
+- ![VS Code Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/visualstudiocode.svg) **VS Code**: My go-to code editor for all development tasks.  
+- ![Simplicity Studio Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/simplicitystudio.svg) **Simplicity Studio 5**: For working with Silicon Labs development kits and wireless technologies.  
+- ![Postman Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/postman.svg) **Postman**: For API testing and development.  
+- ![Docker Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/docker.svg) **Docker**: Containerization of applications for easier deployment and scalability.  
 
 ### **Development Platforms**  
-- ![Raspberry Pi Logo](https://img.icons8.com/ios-filled/50/000000/raspberry-pi.png) **Raspberry Pi**: Prototyping and deploying IoT solutions.  
-- ![Arduino Logo](https://img.icons8.com/ios-filled/50/000000/arduino.png) **Arduino**: Creating custom electronics for various projects.  
-- ![ESP32 Logo](https://img.icons8.com/ios-filled/50/000000/esp32.png) **ESP32/ESP8266**: Building wireless communication devices for IoT.  
-- ![STM32 Logo](https://img.icons8.com/ios-filled/50/000000/stm32.png) **STM32**: Advanced embedded systems development.  
-- ![Atmel Logo](https://img.icons8.com/ios-filled/50/000000/atmel.png) **Atmel (AVR)**: Working on low-power microcontrollers for embedded applications.  
+- ![Raspberry Pi Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/raspberrypi.svg) **Raspberry Pi**: Prototyping and deploying IoT solutions.  
+- ![Arduino Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/arduino.svg) **Arduino**: Creating custom electronics for various projects.  
+- ![ESP32 Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/esp32.svg) **ESP32/ESP8266**: Building wireless communication devices for IoT.  
+- ![STM32 Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/stmicroelectronics.svg) **STM32**: Advanced embedded systems development.  
+- ![Atmel Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/atmel.svg) **Atmel (AVR)**: Working on low-power microcontrollers for embedded applications.  
 
 ### **Wireless Technologies**  
-- ![Wi-SUN Logo](https://img.icons8.com/ios-filled/50/000000/wifi.png) **Wi-SUN**: Enabling smart city applications like streetlight control, sensor networks, and energy monitoring.  
-- ![LoRa Logo](https://img.icons8.com/ios-filled/50/000000/lora.png) **LoRa**: Low-power long-range communication for IoT applications.  
-- ![Wi-Fi Logo](https://img.icons8.com/ios-filled/50/000000/wifi.png) **Wi-Fi/Bluetooth**: Wireless communication for local and short-range applications.  
+- ![Wi-SUN Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/wisun.svg) **Wi-SUN**: Enabling smart city applications like streetlight control, sensor networks, and energy monitoring.  
+- ![LoRa Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/lora.svg) **LoRa**: Low-power long-range communication for IoT applications.  
+- ![Wi-Fi Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/wifi.svg) **Wi-Fi/Bluetooth**: Wireless communication for local and short-range applications.  
 
 
 ## 🤝 Let's Collaborate!
