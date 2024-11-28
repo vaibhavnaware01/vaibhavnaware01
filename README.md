@@ -21,31 +21,31 @@ Feel free to explore my repositories and connect with me!
 ## 🛠️ My Skills
 
 ### **Programming Languages**  
-- ![C++ Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/cplusplus.svg) **C/C++**: Expertise in developing embedded systems and low-level applications.  
-- ![Embedded C Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/c.svg) **Embedded C**: Specialized in real-time and resource-constrained applications.  
-- ![Python Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg) **Python**: Used for data analysis, scripting, and automation tasks.  
-- ![HTML Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/html5.svg) **HTML/CSS**: For building basic web interfaces and dashboards.  
-- ![Bash Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gnu-bash.svg) **Bash**: Writing shell scripts for automation and system management.  
+- ![C++ Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/cplusplus.svg =30x30) **C/C++**: Expertise in developing embedded systems and low-level applications.  
+- ![Embedded C Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/c.svg =30x30) **Embedded C**: Specialized in real-time and resource-constrained applications.  
+- ![Python Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg =30x30) **Python**: Used for data analysis, scripting, and automation tasks.  
+- ![HTML Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/html5.svg =30x30) **HTML/CSS**: For building basic web interfaces and dashboards.  
+- ![Bash Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gnu-bash.svg =30x30) **Bash**: Writing shell scripts for automation and system management.  
 
 ### **Tools & Technologies**  
-- ![Git Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/git.svg) **Git/GitHub**: Version control and collaborative development.  
-- ![Unix Shell Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/ubuntu.svg) **Unix Shell**: Command-line tools for system interaction and automation.  
-- ![VS Code Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/visualstudiocode.svg) **VS Code**: My go-to code editor for all development tasks.  
-- ![Simplicity Studio Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/simplicitystudio.svg) **Simplicity Studio 5**: For working with Silicon Labs development kits and wireless technologies.  
-- ![Postman Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/postman.svg) **Postman**: For API testing and development.  
-- ![Docker Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/docker.svg) **Docker**: Containerization of applications for easier deployment and scalability.  
+- ![Git Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/git.svg =30x30) **Git/GitHub**: Version control and collaborative development.  
+- ![Unix Shell Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/ubuntu.svg =30x30) **Unix Shell**: Command-line tools for system interaction and automation.  
+- ![VS Code Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/visualstudiocode.svg =30x30) **VS Code**: My go-to code editor for all development tasks.  
+- ![Simplicity Studio Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/simplicitystudio.svg =30x30) **Simplicity Studio 5**: For working with Silicon Labs development kits and wireless technologies.  
+- ![Postman Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/postman.svg =30x30) **Postman**: For API testing and development.  
+- ![Docker Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/docker.svg =30x30) **Docker**: Containerization of applications for easier deployment and scalability.  
 
 ### **Development Platforms**  
-- ![Raspberry Pi Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/raspberrypi.svg) **Raspberry Pi**: Prototyping and deploying IoT solutions.  
-- ![Arduino Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/arduino.svg) **Arduino**: Creating custom electronics for various projects.  
-- ![ESP32 Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/esp32.svg) **ESP32/ESP8266**: Building wireless communication devices for IoT.  
-- ![STM32 Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/stmicroelectronics.svg) **STM32**: Advanced embedded systems development.  
-- ![Atmel Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/atmel.svg) **Atmel (AVR)**: Working on low-power microcontrollers for embedded applications.  
+- ![Raspberry Pi Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/raspberrypi.svg =30x30) **Raspberry Pi**: Prototyping and deploying IoT solutions.  
+- ![Arduino Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/arduino.svg =30x30) **Arduino**: Creating custom electronics for various projects.  
+- ![ESP32 Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/esp32.svg =30x30) **ESP32/ESP8266**: Building wireless communication devices for IoT.  
+- ![STM32 Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/stmicroelectronics.svg =30x30) **STM32**: Advanced embedded systems development.  
+- ![Atmel Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/atmel.svg =30x30) **Atmel (AVR)**: Working on low-power microcontrollers for embedded applications.  
 
 ### **Wireless Technologies**  
-- ![Wi-SUN Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/wisun.svg) **Wi-SUN**: Enabling smart city applications like streetlight control, sensor networks, and energy monitoring.  
-- ![LoRa Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/lora.svg) **LoRa**: Low-power long-range communication for IoT applications.  
-- ![Wi-Fi Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/wifi.svg) **Wi-Fi/Bluetooth**: Wireless communication for local and short-range applications.  
+- ![Wi-SUN Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/wisun.svg =30x30) **Wi-SUN**: Enabling smart city applications like streetlight control, sensor networks, and energy monitoring.  
+- ![LoRa Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/lora.svg =30x30) **LoRa**: Low-power long-range communication for IoT applications.  
+- ![Wi-Fi Logo](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/wifi.svg =30x30) **Wi-Fi/Bluetooth**: Wireless communication for local and short-range applications.  
 
 
 ## 🤝 Let's Collaborate!
