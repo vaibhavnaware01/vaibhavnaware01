@@ -103,9 +103,3 @@ I’m always open to collaboration on exciting projects, especially those involv
 I hope you enjoy exploring my projects! Feel free to check out my other repositories and reach out to collaborate or discuss any IoT and embedded systems ideas.  
 """
 
-# Saving this content to a README.md file
-file_path = "/mnt/data/README_Vaibhav_Naware.md"
-with open(file_path, "w") as f:
-    f.write(readme_content)
-
-file_path
