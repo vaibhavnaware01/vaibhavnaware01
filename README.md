@@ -1,5 +1,4 @@
-# Let's generate a README file with the content provided above.
-readme_content = """
+
 # 👋 Hi, I'm Vaibhav Naware!
 
 🚀 **IoT Enthusiast** | 🛠 **Embedded Systems Developer** | 💡 **Smart City Solutions Architect**  
