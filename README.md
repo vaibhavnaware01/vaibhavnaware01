@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm Vaibhav Naware!
 
 🚀 **IoT Enthusiast** | 🛠 **Embedded Systems Developer** | 💡 **Smart City Solutions Architect**  
@@ -22,61 +21,32 @@ Feel free to explore my repositories and connect with me!
 ## 🛠️ My Skills
 
 ### **Programming Languages**  
-- **C/C++**: Expertise in developing embedded systems and low-level applications.  
-- **Embedded C**: Specialized in real-time and resource-constrained applications.  
-- **Python**: Used for data analysis, scripting, and automation tasks.  
-- **HTML/CSS**: For building basic web interfaces and dashboards.  
-- **Bash**: Writing shell scripts for automation and system management.  
+- ![C++ Logo](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) **C/C++**: Expertise in developing embedded systems and low-level applications.  
+- ![Embedded C Logo](https://img.icons8.com/ios-filled/50/000000/c-plus-plus.png) **Embedded C**: Specialized in real-time and resource-constrained applications.  
+- ![Python Logo](https://img.icons8.com/color/48/000000/python.png) **Python**: Used for data analysis, scripting, and automation tasks.  
+- ![HTML Logo](https://img.icons8.com/ios-filled/50/000000/html-5.png) **HTML/CSS**: For building basic web interfaces and dashboards.  
+- ![Bash Logo](https://img.icons8.com/ios-filled/50/000000/bash.png) **Bash**: Writing shell scripts for automation and system management.  
 
 ### **Tools & Technologies**  
-- **Git/GitHub**: Version control and collaborative development.  
-- **Unix Shell**: Command-line tools for system interaction and automation.  
-- **VS Code**: My go-to code editor for all development tasks.  
-- **Simplicity Studio 5**: For working with Silicon Labs development kits and wireless technologies.  
-- **Postman**: For API testing and development.  
-- **Docker**: Containerization of applications for easier deployment and scalability.  
+- ![Git Logo](https://img.icons8.com/ios-filled/50/000000/git.png) **Git/GitHub**: Version control and collaborative development.  
+- ![Unix Shell Logo](https://img.icons8.com/ios-filled/50/000000/terminal.png) **Unix Shell**: Command-line tools for system interaction and automation.  
+- ![VS Code Logo](https://img.icons8.com/ios-filled/50/000000/visual-studio-code-2019.png) **VS Code**: My go-to code editor for all development tasks.  
+- ![Simplicity Studio Logo](https://img.icons8.com/ios-filled/50/000000/techstudio.png) **Simplicity Studio 5**: For working with Silicon Labs development kits and wireless technologies.  
+- ![Postman Logo](https://img.icons8.com/ios-filled/50/000000/postman-api.png) **Postman**: For API testing and development.  
+- ![Docker Logo](https://img.icons8.com/ios-filled/50/000000/docker.png) **Docker**: Containerization of applications for easier deployment and scalability.  
 
 ### **Development Platforms**  
-- **Raspberry Pi**: Prototyping and deploying IoT solutions.  
-- **Arduino**: Creating custom electronics for various projects.  
-- **ESP32/ESP8266**: Building wireless communication devices for IoT.  
-- **STM32**: Advanced embedded systems development.  
-- **Atmel (AVR)**: Working on low-power microcontrollers for embedded applications.  
+- ![Raspberry Pi Logo](https://img.icons8.com/ios-filled/50/000000/raspberry-pi.png) **Raspberry Pi**: Prototyping and deploying IoT solutions.  
+- ![Arduino Logo](https://img.icons8.com/ios-filled/50/000000/arduino.png) **Arduino**: Creating custom electronics for various projects.  
+- ![ESP32 Logo](https://img.icons8.com/ios-filled/50/000000/esp32.png) **ESP32/ESP8266**: Building wireless communication devices for IoT.  
+- ![STM32 Logo](https://img.icons8.com/ios-filled/50/000000/stm32.png) **STM32**: Advanced embedded systems development.  
+- ![Atmel Logo](https://img.icons8.com/ios-filled/50/000000/atmel.png) **Atmel (AVR)**: Working on low-power microcontrollers for embedded applications.  
 
 ### **Wireless Technologies**  
-- **Wi-SUN**: Enabling smart city applications like streetlight control, sensor networks, and energy monitoring.  
-- **LoRa**: Low-power long-range communication for IoT applications.  
-- **Wi-Fi/Bluetooth**: Wireless communication for local and short-range applications.  
+- ![Wi-SUN Logo](https://img.icons8.com/ios-filled/50/000000/wifi.png) **Wi-SUN**: Enabling smart city applications like streetlight control, sensor networks, and energy monitoring.  
+- ![LoRa Logo](https://img.icons8.com/ios-filled/50/000000/lora.png) **LoRa**: Low-power long-range communication for IoT applications.  
+- ![Wi-Fi Logo](https://img.icons8.com/ios-filled/50/000000/wifi.png) **Wi-Fi/Bluetooth**: Wireless communication for local and short-range applications.  
 
----
-
-## 🌱 Current Projects
-
-### **Wi-SUN Mesh Network Deployment**  
-- **Nov 2023 – Present**  
-- Implemented the development and deployment of 65 Wi-SUN Border Routers, Routers, and LFN Nodes across the IIIT Hyderabad campus to enable real-time control of streetlights and collect sensor data.  
-
-### **Water Quality Monitoring Device**  
-- **Feb 2024**  
-- Developed an IoT-based water quality monitoring system using Arduino Nano IoT 33 to measure pH, TDS, temperature, and turbidity. This project enhances real-time data collection and provides valuable insights for environmental monitoring.  
-
-### **Home Automation**  
-- **Aug 2023**  
-- Designed and implemented home automation systems using **Home Assistant** to control various home appliances like lights, fans, windows, and door locks.  
-
-### **Manhole Indication and Accident Prevention System**  
-- **Aug 2023**  
-- Developed an automated manhole flag and cover system, providing visual alerts to prevent accidents and ensure street safety.  
-
-### **Automatic Cattle Rescuer Using Atmega328p**  
-- **Aug 2022**  
-- Created an automated system using Atmega328p for efficient animal evacuation during flood conditions.  
-
-### **Pick and Place Robot Using ESP8266**  
-- **Aug 2022**  
-- Developed a custom-controlled pick and place robot using the **ESP8266**, integrating wireless communication with automation for precise operations.  
-
----
 
 ## 🤝 Let's Collaborate!
 
@@ -100,6 +70,4 @@ I’m always open to collaboration on exciting projects, especially those involv
 
 ---
 
-I hope you enjoy exploring my projects! Feel free to check out my other repositories and reach out to collaborate or discuss any IoT and embedded systems ideas.  
-"""
-
+I hope you enjoy exploring my projects! Feel free to check out my other repositories and reach out to collaborate or discuss any IoT and embedded systems ideas.
